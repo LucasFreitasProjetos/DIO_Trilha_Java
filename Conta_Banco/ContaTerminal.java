@@ -1,3 +1,5 @@
+package DIO_Trilha_Java.Conta_Banco;
+
 import java.util.Scanner;   
 
 public class ContaTerminal {
